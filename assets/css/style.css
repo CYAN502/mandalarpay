@@ -17,6 +17,7 @@ body {
   font-family: "Roboto", sans-serif;
   color: #7e8081;
   line-height: 2;
+  cursor:auto;
 }
 
 a {
