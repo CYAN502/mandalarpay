@@ -1,14 +1,19 @@
 /*!
-  * Bootstrap v5.2.3 (https://getbootstrap.com/)
-  * Copyright 2011-2022 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
-  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+  * Company Name: HPZ Power Co.ltd; 
+  * Updated: Mar 10 2023 with Mandalarpay v5.2.3
+  * Source Code Owner: U Htet Nay Aung
+  * Author: Min Min Zaw
+  * License: https://Mandalarpay.com/license/
   */
 import * as Popper from '@popperjs/core';
 
 /**
  * --------------------------------------------------------------------------
- * Bootstrap (v5.2.3): util/index.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+ * Company Name: HPZ Power Co.ltd; 
+  * Updated: Mar 10 2023 with Mandalarpay v5.2.3
+  * Source Code Owner: U Htet Nay Aung
+  * Author: Min Min Zaw
+  * License: https://Mandalarpay.com/license/
  * --------------------------------------------------------------------------
  */
 const MAX_UID = 1000000;

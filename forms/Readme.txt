@@ -1,2 +1,5 @@
-Fully working PHP/AJAX contact form script is available in the pro version of the template.
-You can buy it from: https://bootstrapmade.com/softland-bootstrap-app-landing-page-template/
+* Company Name: HPZ Power Co.ltd; 
+  * Updated: Mar 10 2023 with Mandalarpay v5.2.3
+  * Source Code Owner: U Htet Nay Aung
+  * Author: Min Min Zaw
+  * License: https://Mandalarpay.com/license/
